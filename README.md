@@ -1,4 +1,4 @@
 shred
 =====
 
-Shred has been moved
+Shred has moved to https://github.com/automatthew/shred
